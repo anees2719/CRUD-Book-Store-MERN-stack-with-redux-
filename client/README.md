@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **create .env file in /server and create variable MONGO_URL with "your mongo url" and PORT
   **
+  ### npm init
+  
 ## Available Scripts
 
 In the project directory, you can run:
